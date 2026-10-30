@@ -54,9 +54,12 @@ Open **http://localhost:5173** in your browser. The app works immediately in **d
 ```bash
 npm run dev      # Vite frontend at :5173 + Express API at :8787
 npm run build    # TypeScript check + optimized frontend build
+npm run deploy   # build and publish the frontend to GitHub Pages
 npm start        # serve built frontend + API at http://localhost:8787
 npm test         # basic API generation/validation tests
 ```
+
+GitHub Pages hosts only the static frontend; it does not run the Express API. The deployed page therefore needs a separately hosted API for draft generation.
 
 ### API example
 
