@@ -1,8 +1,8 @@
-# Threadcraft AI — LinkedIn Comment Studio
+# Threadcraft AI —  Comment Studio
 
-A responsive, human-reviewed LinkedIn comment drafting application built with **React + TypeScript + Vite** and **Node.js + Express**. It generates three distinct drafts using OpenAI's Responses API, lets you edit and save drafts locally, and copies your chosen comment for manual posting on LinkedIn.
+A responsive, human-reviewed  comment drafting application built with **React + TypeScript + Vite** and **Node.js + Express**. It generates three distinct drafts using OpenAI's Responses API, lets you edit and save drafts locally, and copies your chosen comment for manual posting on LinkedIn.
 
-> **Important:** This is a drafting tool, not a LinkedIn bot. It does not scrape LinkedIn, sign into your LinkedIn account, automatically like posts, or automatically publish comments.
+> **Important:** This is a drafting tool, 
 
 ## Instant browser demo
 
@@ -37,7 +37,7 @@ Open **http://localhost:5173** in your browser. The app works immediately in **d
 
 ## Features
 
-- Paste a LinkedIn post or load an example
+- Paste a  post or load an example
 - Choose a technical, engineering leadership, or conversational perspective
 - Choose short, balanced, or detailed output
 - Optionally describe your *real* experience so the AI can ground first-person claims
